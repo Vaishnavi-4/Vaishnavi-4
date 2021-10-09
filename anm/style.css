@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    background-color: antiquewhite;
+    background: url(https://images.pexels.com/photos/2310713/pexels-photo-2310713.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500) no-repeat center center/cover;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    width: 100%;
+}
+
+.container
+{
+    background-color: antiquewhite;
+    width: 70%;
+    height: 200vh;
+    margin: auto;
+}
+
+h1
+{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: 100px;
+    color: rgb(110, 48, 4);
+}
+
+.box
+{
+    border: rgb(155, 12, 107) 2px solid;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 35%;
+    margin: 30px auto;
+    height: 50vh;
+    background-color: #f4a7bb;
+    border-radius: 30px;
+}    
+
+img
+{
+    width: 25;
+    height: 25vh;
+    margin: 40px;
+}
+
+
+a
+{
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(129, 0, 75);
+    border: rgb(211, 0, 158) 2px solid;
+    padding: 5px 10px;
+    border-radius: 20px;
+    margin: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+a:hover
+{
+    background-color: rgb(79, 0, 99);
+    color: rgb(255, 153, 255);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
